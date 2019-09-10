@@ -1,0 +1,11 @@
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\bin\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.deps.json
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\bin\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.runtimeconfig.json
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\bin\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.runtimeconfig.dev.json
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\bin\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.dll
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\bin\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.pdb
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.AssemblyInfoInputs.cache
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.AssemblyInfo.cs
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.dll
+C:\Users\Cesar\source\repos\Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton\obj\Debug\netcoreapp2.1\Tarea Codeville Surf-A-Ton.pdb

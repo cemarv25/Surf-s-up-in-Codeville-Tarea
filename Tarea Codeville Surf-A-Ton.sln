@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea Codeville Surf-A-Ton", "Tarea Codeville Surf-A-Ton\Tarea Codeville Surf-A-Ton.csproj", "{A1C54A2B-602C-48C1-8350-CB602369CC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C54A2B-602C-48C1-8350-CB602369CC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C54A2B-602C-48C1-8350-CB602369CC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C54A2B-602C-48C1-8350-CB602369CC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C54A2B-602C-48C1-8350-CB602369CC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF2A850-3C09-42D6-800A-4F7B30151D9A}
+	EndGlobalSection
+EndGlobal

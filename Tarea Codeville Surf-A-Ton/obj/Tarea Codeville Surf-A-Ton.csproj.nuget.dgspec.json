@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cesar\\source\\repos\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cesar\\source\\repos\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cesar\\source\\repos\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton.csproj",
+        "projectName": "Tarea Codeville Surf-A-Ton",
+        "projectPath": "C:\\Users\\Cesar\\source\\repos\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton.csproj",
+        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cesar\\source\\repos\\Tarea Codeville Surf-A-Ton\\Tarea Codeville Surf-A-Ton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
