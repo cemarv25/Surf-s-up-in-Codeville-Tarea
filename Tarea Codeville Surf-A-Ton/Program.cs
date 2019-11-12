@@ -1,4 +1,5 @@
 ﻿using System;
+using Tarea_Codeville_Surf_A_Ton.Input;
 
 namespace Tarea_Codeville_Surf_A_Ton
 {
@@ -6,19 +7,13 @@ namespace Tarea_Codeville_Surf_A_Ton
     {
         static void Main(string[] args)
         {
-            LecturaArchivo text = new LecturaArchivo();
-            text.Ganadores();
-           
-            
-            
-            
-            /*UsED TO PRINT THE LIST SCORES (WHILE DEV)
 
-            for (int i = 0; i < text.scores.Count; i++)
-            {
-            /(   Console.WriteLine(text.scores[i]);
-            }
-            */
+            Console.WriteLine("Escribe la direccion del archivo");
+            if (!FileLoader.uploadFile(Console.ReadLine()))
+                return;
+            
+            ScoreSorter.obtainTop3();
+            Displayer.displayScores(ScoreSorter.scoreBoard, ScoreSorter.scores);
         }
     }
 }
